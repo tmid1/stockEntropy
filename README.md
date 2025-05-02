@@ -15,8 +15,5 @@ Abstract: Our group aims to use historical stock data to predict stock price or 
 ![qbts](https://github.com/user-attachments/assets/f102cb0d-26c8-4fdd-8451-2355417fb81e)
 
 #### Markov Simulations with Entropy:
-##### With Anomalies:
-![MATH 4510 Project Plot](https://github.com/user-attachments/assets/3356be29-d0b5-4a70-8a8d-2c19db6a5335)
 
-##### Without Anomalies:
 ![New Plot (1)](https://github.com/user-attachments/assets/7bf9e7cf-071f-4d2f-8bdb-d1c465f3ca49)
